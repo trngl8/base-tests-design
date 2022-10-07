@@ -5,9 +5,15 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
+    "autoprefixer": "^10.4.12",
+    "css-loader": "^6.7.1",
+    "mini-css-extract-plugin": "^2.6.1",
+    "postcss-loader": "^7.0.1",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.0.2",
+    "style-loader": "^3.3.1",
     "bootstrap": "^5.2.1",
     "bootstrap-icons": "^1.9.1",
-    "vue": "^3.2.40",
     "webpack": "^5.74.0"
   },
   "devDependencies": {
