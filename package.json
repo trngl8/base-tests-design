@@ -1,7 +1,13 @@
 {
   "scripts": {
     "production": "webpack --mode=production",
-    "build": "webpack --mode=development --config webpack.dev.js"
+    "build": "webpack --mode=development --config webpack.dev.js",
+    "name": "base-tests-design",
+    "description": "Tests Design",
+    "version": "1.0.0",
+    "main": "webpack.config.js",
+    "author": "",
+    "license": "MIT"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
